@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    width:284px;
+    background-image: url(aa33.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parent {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+

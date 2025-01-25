@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parentt{
+    padding: 10px;
+    margin: 5px 0;
+    color: white;
+    background: linear-gradient(90deg, #4caf50, #8bc34a);
+}

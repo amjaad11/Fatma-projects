@@ -1,0 +1,27 @@
+body{
+    background-image: url(aa33.jpg);
+    margin: 0;
+    width:284px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.parent{
+    background:#417995;
+    height:100p;
+    width:200p;
+    padding:12;
+}
+
+
+.one{
+    background:#eda234;
+}
+.tow{
+    background:#9c27b0;
+}
+.three{
+    background:#d3a25a
+}
+.four{
+    background:#e91e63;
+}
