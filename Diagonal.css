@@ -1,0 +1,12 @@
+body{
+    background-image: url(aa33.jpg);
+    margin: 0;
+    width:284px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color:#ffc107;
+    background:black;
+}
+

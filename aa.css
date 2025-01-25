@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    width: 250%; /* Makes the width responsive to all devices */
+    background-image: url(now.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* here help me ChatGpt */
+.parent {
+    width: 95%; /* Suitable width for smaller screens */
+    margin: 20px auto;
+}
+
+

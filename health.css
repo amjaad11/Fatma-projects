@@ -1,0 +1,51 @@
+body{
+
+    width:250px;
+    height:300px;
+    background-image: url(aa33.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+
+
+
+.footer{
+    background:#795548;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.parent {
+    background:#fbee7a;
+    width: 200px;
+    padding: 13px;
+    position: absolute;
+    left:75%;
+    transform: translateX(-50%);
+    text-align: center;
+    top:20px;
+
+}
+a:{
+color:yellow;
+text-decoration:none;
+font-size:20px
+}
+a:hover{
+    color:#ffc107;
+}
+a:visited{
+color:#fbeb5e;
+}
+a:link{
+    color:#ffeb3b;
+}
+
+details summary{
+    color:#795548;
+}

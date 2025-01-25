@@ -1,0 +1,11 @@
+body{
+    background-image: url(sp.jpg);
+    margin: 0;
+    width:284px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+  background:#db96e7;
+  transform:rotate(deg)
+}

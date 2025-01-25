@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    width:240px;
+    background-image: url(aa33.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#text1,#text2{
+    font-size: 20px;
+    background-color:#cd87d9;
+
+}
+
+#text3,#text4{
+    font-size: 21px;
+    background-color:#cd87d9;
+
+
+}
